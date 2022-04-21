@@ -1,0 +1,8 @@
+aiogram>2.0,<3.0
+aioredis==2.0
+environs==8.0.0
+bs4~=0.0.1
+beautifulsoup4~=4.10.0
+callback~=0.0.1
+requests~=2.27.1
+lxml~=4.7.1
